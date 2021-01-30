@@ -17,3 +17,6 @@ if __name__ == '__main__':
 
 def click ():
     print("Click")
+    
+def welcome ():
+    print("New Screen")
